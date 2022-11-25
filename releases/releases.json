@@ -1,0 +1,7 @@
+{
+	"1.1": {
+		"release": "11/25/2022",
+		"changelog": ["+ will make user autofill the configuration.json file", "+ autochanges synapse settings for websocket support", "+ autoupdater and downgradable client"],
+		"size": "983 kilobytes (1,006,685 bytes)"
+	}
+}
