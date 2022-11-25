@@ -7,19 +7,19 @@
 			"directories": [
 				"assets",
 				"bot",
-				"releases",
 				"required_apps", 
 				"version"
 			],
 			"files": [
-				"assets\\configuration.json",
-				"assets\\cookies.txt",
-				"assets\\requirements.txt",
-				"bot\\bot.lua",
-				"required_apps\\multiple_roblox.exe",
-				"required_apps\\remove_heads.exe",
-				"version\\changelog.json",
-				"version\\version.json"
+				["assets\\configuration.json", "w"],
+				["assets\\cookies.txt", "w"],
+				["assets\\requirements.txt", "w"],
+				["bot\\bot.lua", "w"],
+				["required_apps\\multiple_roblox.exe", "wb"],
+				["required_apps\\remove_heads.exe", "wb"],
+				["version\\changelog.json", "w"],
+				["version\\version.json", "w"],
+				["test.py", "w"]
 			]
 		}
 	}
