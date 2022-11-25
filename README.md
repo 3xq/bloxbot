@@ -22,3 +22,6 @@ autochange synapse settings
 interactable client  
 changelogs  
 make user autofill unfilled configuration keys  
+
+# support
+https://discord.gg/TtbmQr84
