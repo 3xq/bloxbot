@@ -1,0 +1,2 @@
+discord_py_interactions==4.3.4
+requests==2.28.1
