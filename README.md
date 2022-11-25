@@ -2,11 +2,11 @@
 bloxbox is a paid, synapse-only, closed-source discord bot that automates roblox server bots.    
 
 # commands
-/bot            |  makes bot join a specified amount of bots join a game  
-/accounts       |  checks your cookies for invalid ones and removes them, also shows a list of valid accounts  
-/close&nbsp;&nbsp;&nbsp;&nbsp;|  closes all roblox processes    
+/bot makes bot join a specified amount of bots join a game  
+/accounts checks your cookies for invalid ones and removes them, also shows a list of valid accounts  
+/close closes all roblox processes    
 
-/whitelist      |  whitelists a user and deters the bots from interacting with them in-game  
+/whitelist whitelists a user and deters the bots from interacting with them in-game  
 
 # features
 automatically joins on multiple accounts  
