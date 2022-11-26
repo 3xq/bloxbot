@@ -20,7 +20,9 @@
 				["version\\changelog.json", "w"],
 				["version\\version.json", "w"],
 				["test.py", "w"]
-			]
+			],
+			"requirements": "assets\\requirements.txt",
+			"bot": "test.py"
 		}
 	}
 }
