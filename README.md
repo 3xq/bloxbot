@@ -17,11 +17,8 @@ whitelisting system
 
 # todo
 /blacklist  |  blacklists a user and makes the bots attack them for a specified time  
-autoupdate and downgradable client  
 autochange synapse settings  
 interactable client  
-changelogs  
-make user autofill unfilled configuration keys  
 
 # support
 https://discord.gg/TtbmQr84
