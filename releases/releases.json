@@ -19,7 +19,7 @@
 				["required_apps\\remove_heads.exe", "wb"],
 				["version\\changelog.json", "w"],
 				["version\\version.json", "w"],
-				["test.py", "w"]
+				["bot.exe", "wb"]
 			],
 			"requirements": "assets\\requirements.txt",
 			"bot": "bot.exe"
