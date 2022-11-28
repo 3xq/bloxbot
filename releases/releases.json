@@ -48,7 +48,8 @@
 				["version\\changelog.json", "w"],
 				["version\\version.json", "w"],
 				["bot.exe", "wb"],
-				["cli\\icon.txt", "w"]
+				["cli\\icon.txt", "w"],
+				["cli.exe", "wb"]
 			],
 			"requirements": "assets\\requirements.txt",
 			"bot": "bot.exe"
