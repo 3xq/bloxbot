@@ -24,5 +24,34 @@
 			"requirements": "assets\\requirements.txt",
 			"bot": "bot.exe"
 		}
+	},
+	"1.2": {
+		"release": "11/28/2022",
+		"changelog": ["+ login / registration system", "+ interactive cli", "+ general purpose fixes"],
+		"size": "11.2 MB (11,025,822 bytes)",
+		"tree": {
+			"directories": [
+				"assets",
+				"bot",
+				"required_apps", 
+				"version",
+				"cli"
+			],
+			"files": [
+				["assets\\configuration.json", "w"],
+				["assets\\cookies.txt", "w"],
+				["assets\\requirements.txt", "w"],
+				["assets\\saved_login.json", "w"],
+				["bot\\bot.lua", "w"],
+				["required_apps\\multiple_roblox.exe", "wb"],
+				["required_apps\\remove_heads.exe", "wb"],
+				["version\\changelog.json", "w"],
+				["version\\version.json", "w"],
+				["bot.exe", "wb"],
+				["cli\\icon.txt", "w"]
+			],
+			"requirements": "assets\\requirements.txt",
+			"bot": "bot.exe"
+		}
 	}
 }
